@@ -27,11 +27,6 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
-    overflow-x: hidden;
-    /* Hide horizontal scrollbar */
-}
-
 section {
     padding: 5rem 0;
 }
@@ -65,7 +60,7 @@ header {
     top: 0;
     left: 0;
     z-index: 1;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .5), transparent);
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), transparent);
 }
 
 .nav {
@@ -471,12 +466,12 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     border-radius: 50%;
+    transition: .5s;
 }
 
 .back-to-top:hover {
     background-color: #2B3341;
-    transform: translate(-50%, -50%);
-    transition: .5s;
+    transform: translate(-50%, -10%);
 }
 
 .back-to-top i {
