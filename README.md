@@ -1,6 +1,9 @@
 # Trimex Colleges Practice Landing Page
 ## Responsive School Landing Page
 
+### Browse Website
+<https://trimexlanding.ga/>
+
 ---
 
 ## Desktop Mode
