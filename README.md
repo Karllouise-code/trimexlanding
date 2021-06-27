@@ -1,8 +1,8 @@
 # Trimex Colleges Practice Landing Page
 ## Responsive School Landing Page
+### Pure HTML & CSS
 
-### Browse Website
-<https://trimexlanding.ga/>
+### Browse Website: <https://trimexlanding.ga/>
 
 ---
 
